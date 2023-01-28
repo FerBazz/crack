@@ -14,9 +14,7 @@ $ python run.py
 ```
 ## Cara Update
 ```php
-$ cd
-$ rm -rf crack
-$ git clone https://FerBazz/crack
+$ cd crack
 $ git pull
 $ python run.py
 ```
