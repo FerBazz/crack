@@ -1,5 +1,5 @@
 ## Cara Install
-```ruby
+```
 $ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install requests mechanize
@@ -13,7 +13,7 @@ $ cd crack
 $ python run.py
 ```
 ## Cara Update
-```php
+```
 $ cd crack
 $ git pull
 $ python run.py
